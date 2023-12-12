@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-12T15:07:30.078Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="ePtTAAc3afjcGAqegE-e" version="22.1.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-12-12T15:10:40.943Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="OiNImxY4eDz8PTtafuFc" version="22.1.7" type="github" pages="2">
   <diagram name="Página-1" id="LgLnZPeBpwjTRLAhEPR4">
     <mxGraphModel dx="983" dy="518" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -309,14 +309,14 @@
         <mxCell id="EJQyZETeWjXXF6MOZ_eN-5" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.user;" vertex="1" parent="0K3pB7vRzEtjPuFGmUZY-1">
           <mxGeometry x="700" y="311" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="EJQyZETeWjXXF6MOZ_eN-6" value="1. Fábio&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2. Marcelo&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;3. Moises&lt;/div&gt;&lt;div style=&quot;&quot;&gt;4. Eberson&lt;/div&gt;&lt;div style=&quot;&quot;&gt;5. Gabriel&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;align=left;" vertex="1" parent="0K3pB7vRzEtjPuFGmUZY-1">
-          <mxGeometry x="610" y="-110" width="90" height="90" as="geometry" />
+        <mxCell id="EJQyZETeWjXXF6MOZ_eN-6" value="1. [B3] Fábio&amp;nbsp;&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2. [YMS] Eberson&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;3. [Rota] Gabriel&lt;/div&gt;&lt;div style=&quot;&quot;&gt;4. Moises&lt;/div&gt;&lt;div style=&quot;&quot;&gt;5. Marcelo&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;align=left;" vertex="1" parent="0K3pB7vRzEtjPuFGmUZY-1">
+          <mxGeometry x="580" y="-120" width="110" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="EJQyZETeWjXXF6MOZ_eN-8" value="1. Eduardo&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2. Samuel&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;3. Derick&lt;/div&gt;&lt;div style=&quot;&quot;&gt;4. Luciano&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;align=left;" vertex="1" parent="0K3pB7vRzEtjPuFGmUZY-1">
-          <mxGeometry x="827" y="-110" width="90" height="90" as="geometry" />
+        <mxCell id="EJQyZETeWjXXF6MOZ_eN-8" value="1. [TOS] Eduardo&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2. [TOS] Samuel&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;3. [GTM] Luis&lt;/div&gt;&lt;div style=&quot;&quot;&gt;4. [GTM] Luciano&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;align=left;" vertex="1" parent="0K3pB7vRzEtjPuFGmUZY-1">
+          <mxGeometry x="850" y="-120" width="130" height="95" as="geometry" />
         </mxCell>
         <mxCell id="EJQyZETeWjXXF6MOZ_eN-10" value="1. TSM 1&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2. TSM 2&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;3. RUMO&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;align=left;" vertex="1" parent="0K3pB7vRzEtjPuFGmUZY-1">
-          <mxGeometry x="720" y="-110" width="90" height="90" as="geometry" />
+          <mxGeometry x="720" y="-120" width="110" height="100" as="geometry" />
         </mxCell>
         <mxCell id="EJQyZETeWjXXF6MOZ_eN-12" value="1. Felipe&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2. Derick&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;align=left;" vertex="1" parent="0K3pB7vRzEtjPuFGmUZY-1">
           <mxGeometry x="510" y="448" width="64" height="52" as="geometry" />
