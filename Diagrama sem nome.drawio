@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-12T15:48:08.704Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="5ZKSwPDOqlAVbD6MwinL" version="22.1.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-12-12T15:50:43.077Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="Doak-XPoA4NS_oVy2GT8" version="22.1.7" type="github" pages="2">
   <diagram name="Página-1" id="LgLnZPeBpwjTRLAhEPR4">
     <mxGraphModel dx="983" dy="518" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -294,9 +294,6 @@
         <mxCell id="EJQyZETeWjXXF6MOZ_eN-24" value="&amp;nbsp; [TOS] Eduardo&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 11px;&quot;&gt;&amp;nbsp; [TOS] Samuel&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp; [GTM] Luis&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&amp;nbsp; [GTM] Luciano&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;align=left;fontSize=11;" vertex="1" parent="0K3pB7vRzEtjPuFGmUZY-1">
           <mxGeometry x="520" y="472.5" width="110" height="77.5" as="geometry" />
         </mxCell>
-        <mxCell id="EJQyZETeWjXXF6MOZ_eN-25" value="&amp;nbsp; [RUMO] Matheus&lt;br&gt;&amp;nbsp; [RUMO] Igor&lt;br&gt;&amp;nbsp; [RUMO] Marcos" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;align=left;fontSize=11;" vertex="1" parent="0K3pB7vRzEtjPuFGmUZY-1">
-          <mxGeometry x="520" y="210" width="110" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="EJQyZETeWjXXF6MOZ_eN-26" value="&amp;nbsp; [TMS1] Henrique&lt;br&gt;&amp;nbsp; [TMS1] Edgar&lt;br&gt;&amp;nbsp; [TMS1]&amp;nbsp;&lt;br&gt;&amp;nbsp; [TMS1]&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;align=left;fontSize=11;" vertex="1" parent="0K3pB7vRzEtjPuFGmUZY-1">
           <mxGeometry x="520" y="290" width="110" height="70" as="geometry" />
         </mxCell>
@@ -304,7 +301,7 @@
           <mxGeometry x="520" y="370" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="EJQyZETeWjXXF6MOZ_eN-28" value="Hermínio" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=default;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.user;fillColor=#97D077;" vertex="1" parent="0K3pB7vRzEtjPuFGmUZY-1">
-          <mxGeometry x="471" y="230" width="29" height="30" as="geometry" />
+          <mxGeometry x="476.5" y="225" width="29" height="30" as="geometry" />
         </mxCell>
         <mxCell id="EJQyZETeWjXXF6MOZ_eN-29" value="Dalssoto" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=default;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.user;fillColor=#97D077;" vertex="1" parent="0K3pB7vRzEtjPuFGmUZY-1">
           <mxGeometry x="471" y="300" width="29" height="30" as="geometry" />
@@ -341,6 +338,15 @@
         </mxCell>
         <mxCell id="EJQyZETeWjXXF6MOZ_eN-48" value="Moises" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=left;" vertex="1" parent="0K3pB7vRzEtjPuFGmUZY-1">
           <mxGeometry x="530" y="120" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EJQyZETeWjXXF6MOZ_eN-76" value="[RUMO] Matheus" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=left;" vertex="1" parent="0K3pB7vRzEtjPuFGmUZY-1">
+          <mxGeometry x="530" y="215" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EJQyZETeWjXXF6MOZ_eN-77" value="[RUMO] Igor" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=left;" vertex="1" parent="0K3pB7vRzEtjPuFGmUZY-1">
+          <mxGeometry x="530" y="235" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EJQyZETeWjXXF6MOZ_eN-78" value="[RUMO] Marcos" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=left;" vertex="1" parent="0K3pB7vRzEtjPuFGmUZY-1">
+          <mxGeometry x="530" y="255" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
