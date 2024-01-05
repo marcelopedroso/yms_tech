@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-05T19:05:22.892Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="KzToCkC8nzELF-UszH0D" version="22.1.16" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-01-05T20:08:06.047Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="uvdD9XJZD9zWF4221ji6" version="22.1.16" type="github" pages="6">
   <diagram name="Página-1" id="LgLnZPeBpwjTRLAhEPR4">
     <mxGraphModel dx="1638" dy="891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1094,9 +1094,6 @@
         </mxCell>
         <mxCell id="WguQWaFFq1ZWEa8x10pn-1" value="Services" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="BwTGOBDLKmB829zKvNaI-1">
           <mxGeometry x="-240" y="-45.29" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="GmM9tf-51pAQLnRLXLXv-0" value="Arquitetura" style="rounded=1;whiteSpace=wrap;html=1;fontSize=34;" vertex="1" parent="BwTGOBDLKmB829zKvNaI-1">
-          <mxGeometry x="-380" y="-120" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="BwTGOBDLKmB829zKvNaI-18" value="B3" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="BwTGOBDLKmB829zKvNaI-1" vertex="1">
           <mxGeometry x="-180" y="680" width="80" height="20" as="geometry" />
