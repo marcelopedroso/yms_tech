@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-08T16:18:13.178Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="KCfJwKUUee2w7hdUENwx" version="22.1.17" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-01-08T16:21:01.096Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="zNseO6yX3sYNpfxamdVC" version="22.1.17" type="github" pages="2">
   <diagram name="Page-1" id="b33cb84f-bf7a-9ccf-f142-242d16432e5d">
     <mxGraphModel dx="1638" dy="891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -276,16 +276,16 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="p83qJGNsZK0hGPDMXD8O-3" value="Base Principal&lt;br&gt;Tenants" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="300" y="10" width="114" height="710" as="geometry" />
+          <mxGeometry x="300" y="80" width="114" height="640" as="geometry" />
         </mxCell>
         <mxCell id="p83qJGNsZK0hGPDMXD8O-1" value="APPLICAÇÃO&lt;br&gt;&lt;br&gt;&lt;br&gt;MULTI TENANTS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="179" y="10" width="120" height="260" as="geometry" />
+          <mxGeometry x="179" y="80" width="120" height="190" as="geometry" />
         </mxCell>
         <mxCell id="p83qJGNsZK0hGPDMXD8O-2" value="PostgreSQL" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="314" y="70" width="80" height="80" as="geometry" />
+          <mxGeometry x="317" y="150" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="p83qJGNsZK0hGPDMXD8O-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/boxicons-logos/24/bxl-django-128.png" vertex="1" parent="1">
-          <mxGeometry x="194" y="97.5" width="85" height="85" as="geometry" />
+          <mxGeometry x="196.5" y="160" width="85" height="85" as="geometry" />
         </mxCell>
         <mxCell id="p83qJGNsZK0hGPDMXD8O-13" value="APPLICAÇÃO&lt;br&gt;ON PREMISSE&lt;br&gt;&lt;br&gt;MULTI DATABASE" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="600" y="80" width="120" height="280" as="geometry" />
@@ -294,13 +294,13 @@
           <mxGeometry x="615" y="190" width="85" height="85" as="geometry" />
         </mxCell>
         <mxCell id="p83qJGNsZK0hGPDMXD8O-24" value="Base &lt;br&gt;On Premisse" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="480" y="80" width="120" height="160" as="geometry" />
+          <mxGeometry x="480" y="80" width="120" height="200" as="geometry" />
         </mxCell>
         <mxCell id="p83qJGNsZK0hGPDMXD8O-25" value="PostgreSQL" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="500" y="130" width="80" height="80" as="geometry" />
+          <mxGeometry x="500" y="150" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="p83qJGNsZK0hGPDMXD8O-30" value="Base Principal&lt;br&gt;Tenant" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="320" y="240" width="280" height="120" as="geometry" />
+          <mxGeometry x="320" y="280" width="280" height="80" as="geometry" />
         </mxCell>
         <mxCell id="p83qJGNsZK0hGPDMXD8O-31" value="APPLICAÇÃO&lt;br&gt;ON PREMISSE&lt;br&gt;&lt;br&gt;MULTI DATABASE" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="600" y="400" width="120" height="280" as="geometry" />
@@ -309,16 +309,13 @@
           <mxGeometry x="615" y="510" width="85" height="85" as="geometry" />
         </mxCell>
         <mxCell id="p83qJGNsZK0hGPDMXD8O-33" value="Base &lt;br&gt;On Premisse" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="480" y="400" width="120" height="160" as="geometry" />
+          <mxGeometry x="480" y="400" width="120" height="200" as="geometry" />
         </mxCell>
         <mxCell id="p83qJGNsZK0hGPDMXD8O-34" value="PostgreSQL" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="500" y="450" width="80" height="80" as="geometry" />
+          <mxGeometry x="500" y="480" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="p83qJGNsZK0hGPDMXD8O-36" value="Base Principal&lt;br&gt;Tenant" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;align=center;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="320" y="560" width="280" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="p83qJGNsZK0hGPDMXD8O-44" value="Note" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="230" width="50" height="100" as="geometry" />
+          <mxGeometry x="320" y="600" width="280" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
