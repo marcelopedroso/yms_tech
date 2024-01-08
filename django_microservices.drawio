@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-08T18:24:00.059Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="TALTDJqmXWFWic2pQzjx" version="22.1.17" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-01-08T18:28:09.369Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="bRNQuBJgDWe--Z0tQ0Fc" version="22.1.17" type="github" pages="2">
   <diagram name="Page-1" id="b33cb84f-bf7a-9ccf-f142-242d16432e5d">
     <mxGraphModel dx="1638" dy="891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -271,13 +271,13 @@
           <mxGeometry x="1784" y="360" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="x5e042wy6W8hICx6VRVr-15" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=api" vertex="1" parent="1">
-          <mxGeometry x="1414" y="100" width="83.33" height="80" as="geometry" />
+          <mxGeometry x="1470" y="100" width="83.33" height="80" as="geometry" />
         </mxCell>
         <mxCell id="x5e042wy6W8hICx6VRVr-16" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=api" vertex="1" parent="1">
-          <mxGeometry x="1414" y="330" width="83.33" height="80" as="geometry" />
+          <mxGeometry x="1470" y="330" width="83.33" height="80" as="geometry" />
         </mxCell>
         <mxCell id="x5e042wy6W8hICx6VRVr-17" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=api" vertex="1" parent="1">
-          <mxGeometry x="1414" y="550" width="83.33" height="80" as="geometry" />
+          <mxGeometry x="1470" y="550" width="83.33" height="80" as="geometry" />
         </mxCell>
         <mxCell id="x5e042wy6W8hICx6VRVr-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.005;entryY=0.63;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="x5e042wy6W8hICx6VRVr-2" target="x5e042wy6W8hICx6VRVr-15">
           <mxGeometry relative="1" as="geometry" />
@@ -296,6 +296,12 @@
         </mxCell>
         <mxCell id="x5e042wy6W8hICx6VRVr-32" value="PostgreSQL" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png" vertex="1" parent="1">
           <mxGeometry x="992" y="333" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="x5e042wy6W8hICx6VRVr-33" value="Manager&amp;nbsp; [App Core]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1310" y="200" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x5e042wy6W8hICx6VRVr-34" value="&lt;b&gt;Shared Apps&lt;br&gt;&lt;/b&gt;- Camera&lt;br&gt;- Modbus&lt;br&gt;- Balance&lt;br&gt;- rest_framework" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1339" y="230" width="110" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
