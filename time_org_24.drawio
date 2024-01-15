@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-15T13:54:22.313Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="PWtApDaVpJUi559iJ7-z" version="22.1.18" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-01-15T15:25:48.152Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="IntXOmcMrQCHd0hAXJVh" version="22.1.18" type="github" pages="7">
   <diagram name="Página-1" id="LgLnZPeBpwjTRLAhEPR4">
     <mxGraphModel dx="1638" dy="891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -860,12 +860,12 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Cópia do futuro_ideal" id="XoWlqIoZRWDue0Hzn1Ox">
-    <mxGraphModel dx="2608" dy="1708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2754" dy="2217" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="BwTGOBDLKmB829zKvNaI-0" />
         <mxCell id="BwTGOBDLKmB829zKvNaI-1" parent="BwTGOBDLKmB829zKvNaI-0" />
         <mxCell id="kzzPDA3EC6Fwm18p6XxM-1" value="Tecnologia" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=top;dashed=1;fillStyle=auto;glass=0;perimeterSpacing=2;strokeWidth=3;fontSize=19;arcSize=3;" vertex="1" parent="BwTGOBDLKmB829zKvNaI-1">
-          <mxGeometry x="170" y="-250" width="890" height="1060" as="geometry" />
+          <mxGeometry x="170" y="-250" width="740" height="1060" as="geometry" />
         </mxCell>
         <mxCell id="BwTGOBDLKmB829zKvNaI-3" value="Produto" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=top;dashed=1;fillStyle=auto;glass=0;perimeterSpacing=2;strokeWidth=3;fontSize=19;arcSize=4;gradientColor=none;" parent="BwTGOBDLKmB829zKvNaI-1" vertex="1">
           <mxGeometry x="-50" y="-220" width="210" height="1020" as="geometry" />
