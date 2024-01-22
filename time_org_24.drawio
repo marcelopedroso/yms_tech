@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-22T16:08:24.762Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="UqtHkpCytLvqzKGPV32R" version="22.1.21" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-01-22T16:33:27.538Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="LFWjmIhWZcYVh4hhLiWZ" version="22.1.21" type="github" pages="9">
   <diagram name="Página-1" id="LgLnZPeBpwjTRLAhEPR4">
     <mxGraphModel dx="1638" dy="891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1955,6 +1955,9 @@
         </mxCell>
         <mxCell id="rbW_WZctwYiFh_f2ZYBM-2" value="Rota Certa" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="N-x4Uq1PfQ7TN0RLeoOC-1">
           <mxGeometry x="-170" y="656" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="rbW_WZctwYiFh_f2ZYBM-4" value="Klotz" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.user;fillColor=#a20025;fontColor=#000000;strokeColor=#000000;" vertex="1" parent="N-x4Uq1PfQ7TN0RLeoOC-1">
+          <mxGeometry x="10" y="510" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
