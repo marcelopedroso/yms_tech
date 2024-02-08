@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-08T22:17:29.180Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="PU2IC5Pzjsldd7zF0yhL" version="23.1.2" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-02-08T22:18:41.385Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="WU5_M5B0-6Nx9J6tg_fA" version="23.1.2" type="github" pages="9">
   <diagram name="Página-1" id="LgLnZPeBpwjTRLAhEPR4">
     <mxGraphModel dx="1638" dy="891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1696,7 +1696,7 @@
           <mxGeometry x="-130" y="390" width="1020" height="90" as="geometry" />
         </mxCell>
         <mxCell id="N-x4Uq1PfQ7TN0RLeoOC-13" value="" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;opacity=50;fillColor=#d5e8d4;strokeColor=#82b366;" parent="N-x4Uq1PfQ7TN0RLeoOC-1" vertex="1">
-          <mxGeometry x="-130" y="190" width="1020" height="100" as="geometry" />
+          <mxGeometry x="-130" y="190" width="1020" height="120" as="geometry" />
         </mxCell>
         <mxCell id="N-x4Uq1PfQ7TN0RLeoOC-14" value="Darossi" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.user;" parent="N-x4Uq1PfQ7TN0RLeoOC-1" vertex="1">
           <mxGeometry x="450" y="409.38" width="40" height="40" as="geometry" />
@@ -1759,7 +1759,7 @@
           <mxGeometry x="530" y="260" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="N-x4Uq1PfQ7TN0RLeoOC-38" value="[TSM] Anderson" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=left;" parent="N-x4Uq1PfQ7TN0RLeoOC-1" vertex="1">
-          <mxGeometry x="530" y="280" width="90" height="20" as="geometry" />
+          <mxGeometry x="510" y="218" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="N-x4Uq1PfQ7TN0RLeoOC-39" value="[TSM] André B." style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=left;" parent="N-x4Uq1PfQ7TN0RLeoOC-1" vertex="1">
           <mxGeometry x="530" y="300" width="90" height="20" as="geometry" />
@@ -1978,7 +1978,7 @@
           <mxGeometry x="-428.5" y="403.5" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2KwYF9JIftkk5G2zMVdB-16" value="[TSM] Mateus A." style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=left;" vertex="1" parent="N-x4Uq1PfQ7TN0RLeoOC-1">
-          <mxGeometry x="550" y="320" width="90" height="20" as="geometry" />
+          <mxGeometry x="530" y="280" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2KwYF9JIftkk5G2zMVdB-17" value="Dev" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=left;" vertex="1" parent="N-x4Uq1PfQ7TN0RLeoOC-1">
           <mxGeometry x="-431.25" y="435" width="90" height="20" as="geometry" />
