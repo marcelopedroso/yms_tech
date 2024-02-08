@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-08T22:12:28.856Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="I8C8zMo97uCodGbbWve4" version="23.1.2" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-02-08T22:17:29.180Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="PU2IC5Pzjsldd7zF0yhL" version="23.1.2" type="github" pages="9">
   <diagram name="Página-1" id="LgLnZPeBpwjTRLAhEPR4">
     <mxGraphModel dx="1638" dy="891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1782,7 +1782,7 @@
         <mxCell id="N-x4Uq1PfQ7TN0RLeoOC-46" value="[TSM] Henrique" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=left;" parent="N-x4Uq1PfQ7TN0RLeoOC-1" vertex="1">
           <mxGeometry x="530" y="240" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="N-x4Uq1PfQ7TN0RLeoOC-48" value="Marco" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.user;strokeWidth=2;perimeterSpacing=0;" parent="N-x4Uq1PfQ7TN0RLeoOC-1" vertex="1">
+        <mxCell id="N-x4Uq1PfQ7TN0RLeoOC-48" value="Marco" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.user;strokeWidth=1;perimeterSpacing=0;strokeColor=default;" parent="N-x4Uq1PfQ7TN0RLeoOC-1" vertex="1">
           <mxGeometry x="101" y="-1.1399999999999366" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="N-x4Uq1PfQ7TN0RLeoOC-49" value="[YMS] Eberson" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=left;" parent="N-x4Uq1PfQ7TN0RLeoOC-1" vertex="1">
@@ -1824,7 +1824,7 @@
         <mxCell id="N-x4Uq1PfQ7TN0RLeoOC-68" value="[Mosaic] Dalssoto" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=left;" parent="N-x4Uq1PfQ7TN0RLeoOC-1" vertex="1">
           <mxGeometry x="620.0000000000002" y="120" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="N-x4Uq1PfQ7TN0RLeoOC-71" value="Aldir" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.user;fillColor=#ffff88;strokeColor=#36393d;" parent="N-x4Uq1PfQ7TN0RLeoOC-1" vertex="1">
+        <mxCell id="N-x4Uq1PfQ7TN0RLeoOC-71" value="Aldir" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.user;" parent="N-x4Uq1PfQ7TN0RLeoOC-1" vertex="1">
           <mxGeometry x="377" y="716" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="N-x4Uq1PfQ7TN0RLeoOC-72" value="Alessandro" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.user;" parent="N-x4Uq1PfQ7TN0RLeoOC-1" vertex="1">
@@ -1959,17 +1959,8 @@
         <mxCell id="N-x4Uq1PfQ7TN0RLeoOC-51" value="Pica &lt;br&gt;em QA" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.user;fillColor=#008a00;fontColor=#030303;strokeColor=#005700;strokeWidth=2;" parent="N-x4Uq1PfQ7TN0RLeoOC-1" vertex="1">
           <mxGeometry x="805" y="646" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2KwYF9JIftkk5G2zMVdB-6" value="[RUMO] Cesar" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=left;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="N-x4Uq1PfQ7TN0RLeoOC-1">
-          <mxGeometry x="470" y="940" width="90" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="2KwYF9JIftkk5G2zMVdB-7" value="Aldir" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.user;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="N-x4Uq1PfQ7TN0RLeoOC-1">
-          <mxGeometry x="410" y="920" width="40" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="2KwYF9JIftkk5G2zMVdB-9" value="[RUMO] Cesar" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=left;fillColor=#f8cecc;strokeColor=#b85450;fillStyle=dots;gradientColor=#ea6b66;" vertex="1" parent="N-x4Uq1PfQ7TN0RLeoOC-1">
           <mxGeometry x="530" y="790" width="90" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="2KwYF9JIftkk5G2zMVdB-10" value="[B3] Marcelo" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=left;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="N-x4Uq1PfQ7TN0RLeoOC-1">
-          <mxGeometry x="570" y="940" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="N-x4Uq1PfQ7TN0RLeoOC-90" value="Pica 2" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.user;fillColor=#0050ef;fontColor=#000000;strokeColor=#001DBC;strokeWidth=2;" parent="N-x4Uq1PfQ7TN0RLeoOC-1" vertex="1">
           <mxGeometry x="800" y="320" width="40" height="40" as="geometry" />
