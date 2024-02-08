@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-08T22:22:41.586Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="U6cdzSVYjdQ61xkxtRjD" version="23.1.2" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-02-08T22:23:30.791Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="baPxTtRBQJBMGymZT9Br" version="23.1.2" type="github" pages="9">
   <diagram name="Página-1" id="LgLnZPeBpwjTRLAhEPR4">
     <mxGraphModel dx="1638" dy="891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1758,14 +1758,8 @@
         <mxCell id="N-x4Uq1PfQ7TN0RLeoOC-37" value="[TSM] Schram" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=left;" parent="N-x4Uq1PfQ7TN0RLeoOC-1" vertex="1">
           <mxGeometry x="530" y="260" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="N-x4Uq1PfQ7TN0RLeoOC-38" value="[TSM] Anderson" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=left;" parent="N-x4Uq1PfQ7TN0RLeoOC-1" vertex="1">
-          <mxGeometry x="510" y="218" width="90" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="N-x4Uq1PfQ7TN0RLeoOC-39" value="[TSM] André B." style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=left;" parent="N-x4Uq1PfQ7TN0RLeoOC-1" vertex="1">
-          <mxGeometry x="530" y="300" width="90" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="N-x4Uq1PfQ7TN0RLeoOC-41" value="[TSM] Edgar" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=left;" parent="N-x4Uq1PfQ7TN0RLeoOC-1" vertex="1">
-          <mxGeometry x="610" y="218" width="92.06" height="20" as="geometry" />
+          <mxGeometry x="620" y="220" width="92.06" height="20" as="geometry" />
         </mxCell>
         <mxCell id="N-x4Uq1PfQ7TN0RLeoOC-42" value="[GTM] Luiz" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=left;" parent="N-x4Uq1PfQ7TN0RLeoOC-1" vertex="1">
           <mxGeometry x="530" y="69.4299999999999" width="90" height="20" as="geometry" />
@@ -1936,7 +1930,7 @@
           <mxGeometry x="820" y="240" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="N-x4Uq1PfQ7TN0RLeoOC-40" value="[TSM] Mateus A." style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=left;" parent="N-x4Uq1PfQ7TN0RLeoOC-1" vertex="1">
-          <mxGeometry x="530" y="300" width="90" height="20" as="geometry" />
+          <mxGeometry x="530" y="200" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="N-x4Uq1PfQ7TN0RLeoOC-88" value="André" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.user;" parent="N-x4Uq1PfQ7TN0RLeoOC-1" vertex="1">
           <mxGeometry x="290" y="654.5" width="40" height="40" as="geometry" />
@@ -1948,7 +1942,7 @@
           <mxGeometry x="377" y="280" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="N-x4Uq1PfQ7TN0RLeoOC-47" value="[TSM] Guiliver" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=left;fillColor=#FFFFFF;strokeColor=#005700;fontColor=#000000;" parent="N-x4Uq1PfQ7TN0RLeoOC-1" vertex="1">
-          <mxGeometry x="530" y="200" width="90" height="20" as="geometry" />
+          <mxGeometry x="530" y="325" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2KwYF9JIftkk5G2zMVdB-0" value="PM" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.user;fillColor=#008a00;strokeColor=#005700;fontColor=#171717;" vertex="1" parent="N-x4Uq1PfQ7TN0RLeoOC-1">
           <mxGeometry x="101" y="315" width="40" height="40" as="geometry" />
@@ -2000,6 +1994,12 @@
         </mxCell>
         <mxCell id="2KwYF9JIftkk5G2zMVdB-35" value="[B3]&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=left;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="N-x4Uq1PfQ7TN0RLeoOC-1">
           <mxGeometry x="660.24" y="540" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="N-x4Uq1PfQ7TN0RLeoOC-38" value="[TSM] Anderson" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=left;" parent="N-x4Uq1PfQ7TN0RLeoOC-1" vertex="1">
+          <mxGeometry x="530" y="350" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="N-x4Uq1PfQ7TN0RLeoOC-39" value="[TSM] André B." style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=left;" parent="N-x4Uq1PfQ7TN0RLeoOC-1" vertex="1">
+          <mxGeometry x="620" y="250" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
