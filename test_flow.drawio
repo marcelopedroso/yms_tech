@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-12T03:05:28.930Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="s4ws3HneN10dEYjsjlYm" version="23.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-12T03:09:00.748Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="K4Wz2EZf-72DCAj_Asgq" version="23.1.2" type="github">
   <diagram name="Página-1" id="jT7ZPlWgF6IqX4DdoQz3">
     <mxGraphModel dx="1997" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -124,7 +124,7 @@
         <mxCell id="f1oPZVSiDSi1oAFIV8Sl-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" source="f1oPZVSiDSi1oAFIV8Sl-64" target="f1oPZVSiDSi1oAFIV8Sl-57" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="f1oPZVSiDSi1oAFIV8Sl-74" value="StatusCode = 200" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="f1oPZVSiDSi1oAFIV8Sl-63">
+        <mxCell id="f1oPZVSiDSi1oAFIV8Sl-74" value="&lt;b&gt;Abrir Sessão Token&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;StatusCode = 200&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;{&quot;session&quot;: &amp;lt;int&amp;gt;,&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&quot;code&quot;: &amp;lt;int&amp;gt;}&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="f1oPZVSiDSi1oAFIV8Sl-63">
           <mxGeometry x="-0.3118" y="3" relative="1" as="geometry">
             <mxPoint x="15" as="offset" />
           </mxGeometry>
@@ -135,15 +135,15 @@
         <mxCell id="f1oPZVSiDSi1oAFIV8Sl-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="f1oPZVSiDSi1oAFIV8Sl-67" target="f1oPZVSiDSi1oAFIV8Sl-59" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="f1oPZVSiDSi1oAFIV8Sl-78" value="StatusCode = 404&lt;br&gt;{&quot;success&quot;:False}" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="f1oPZVSiDSi1oAFIV8Sl-65">
+        <mxCell id="f1oPZVSiDSi1oAFIV8Sl-78" value="&lt;b&gt;Code Fail&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;StatusCode = 404&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;{&quot;success&quot; : &amp;lt;bool&amp;gt;}&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="f1oPZVSiDSi1oAFIV8Sl-65">
           <mxGeometry x="0.0248" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-1" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="f1oPZVSiDSi1oAFIV8Sl-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="f1oPZVSiDSi1oAFIV8Sl-67" target="f1oPZVSiDSi1oAFIV8Sl-55" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="f1oPZVSiDSi1oAFIV8Sl-77" value="StatusCode = 200&lt;br&gt;{&quot;success&quot; : True}" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="f1oPZVSiDSi1oAFIV8Sl-66">
+        <mxCell id="f1oPZVSiDSi1oAFIV8Sl-77" value="&lt;b&gt;Success Code&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;StatusCode = 200&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;{&quot;success&quot; : &amp;lt;bool&amp;gt;}&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="f1oPZVSiDSi1oAFIV8Sl-66">
           <mxGeometry x="-0.5827" y="2" relative="1" as="geometry">
             <mxPoint x="54" y="-2" as="offset" />
           </mxGeometry>
