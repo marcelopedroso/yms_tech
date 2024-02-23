@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-22T21:36:57.622Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="Y_0Nx3pTgJozWY9BNz-L" version="23.1.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-02-23T12:34:36.210Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="iin2SNN_UOljldoMYrXF" version="23.1.5" type="github" pages="4">
   <diagram name="Página-1" id="jT7ZPlWgF6IqX4DdoQz3">
     <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2529,7 +2529,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="A62l7Qg40MMwF0F1yx_F-68" value="GET POST&lt;br&gt;Tornado" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="A62l7Qg40MMwF0F1yx_F-67">
+        <mxCell id="A62l7Qg40MMwF0F1yx_F-68" value="PUT&amp;nbsp;&lt;br&gt;DRF" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="A62l7Qg40MMwF0F1yx_F-67">
           <mxGeometry x="0.1145" y="-1" relative="1" as="geometry">
             <mxPoint x="3" y="40" as="offset" />
           </mxGeometry>
@@ -2544,7 +2544,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="A62l7Qg40MMwF0F1yx_F-74" value="GET POST&lt;br&gt;Tornado" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="A62l7Qg40MMwF0F1yx_F-73">
+        <mxCell id="A62l7Qg40MMwF0F1yx_F-74" value="PUT&amp;nbsp;&lt;br&gt;DRF" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="A62l7Qg40MMwF0F1yx_F-73">
           <mxGeometry x="0.1145" y="-1" relative="1" as="geometry">
             <mxPoint x="3" y="40" as="offset" />
           </mxGeometry>
@@ -2568,7 +2568,7 @@
             <mxPoint x="1725" y="550" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A62l7Qg40MMwF0F1yx_F-80" value="GET POST &lt;br&gt;Tornado" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="A62l7Qg40MMwF0F1yx_F-79">
+        <mxCell id="A62l7Qg40MMwF0F1yx_F-80" value="POST&lt;br&gt;python" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="A62l7Qg40MMwF0F1yx_F-79">
           <mxGeometry x="0.3827" relative="1" as="geometry">
             <mxPoint x="35" y="-3" as="offset" />
           </mxGeometry>
