@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-25T00:25:15.522Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="m7sPpCwpaQ4SxbQ3Kcji" version="23.1.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-02-25T17:05:53.840Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="zKaXvhOzfOkXXi1zu-Nm" version="23.1.5" type="github" pages="4">
   <diagram name="Página-1" id="jT7ZPlWgF6IqX4DdoQz3">
     <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2682,7 +2682,7 @@
           <mxGeometry x="2030" y="730" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nEC1PBz0_pPa9okscdMQ-46" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.token_service;" vertex="1" parent="1">
-          <mxGeometry x="2810" y="870" width="20" height="20" as="geometry" />
+          <mxGeometry x="2820" y="880" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nEC1PBz0_pPa9okscdMQ-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nEC1PBz0_pPa9okscdMQ-47" target="nEC1PBz0_pPa9okscdMQ-7">
           <mxGeometry relative="1" as="geometry">
@@ -2695,7 +2695,7 @@
           <mxGeometry x="2250" y="635" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nEC1PBz0_pPa9okscdMQ-48" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.token_service;direction=east;" vertex="1" parent="1">
-          <mxGeometry x="2290" y="620" width="20" height="20" as="geometry" />
+          <mxGeometry x="2230" y="635" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="nEC1PBz0_pPa9okscdMQ-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.421;entryY=-0.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nEC1PBz0_pPa9okscdMQ-47" target="nEC1PBz0_pPa9okscdMQ-63">
           <mxGeometry relative="1" as="geometry" />
@@ -2726,6 +2726,35 @@
         </mxCell>
         <mxCell id="nEC1PBz0_pPa9okscdMQ-66" value="View" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nEC1PBz0_pPa9okscdMQ-65">
           <mxGeometry x="0.0593" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nEC1PBz0_pPa9okscdMQ-68" value="Sistema supervisório" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2590" y="565" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nEC1PBz0_pPa9okscdMQ-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.691;entryY=-0.128;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nEC1PBz0_pPa9okscdMQ-68" target="nEC1PBz0_pPa9okscdMQ-63">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2670" y="600" />
+              <mxPoint x="2670" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nEC1PBz0_pPa9okscdMQ-72" value="PATCH" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nEC1PBz0_pPa9okscdMQ-71">
+          <mxGeometry x="-0.2831" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nEC1PBz0_pPa9okscdMQ-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.534;entryY=-0.128;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nEC1PBz0_pPa9okscdMQ-68" target="nEC1PBz0_pPa9okscdMQ-63">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2630" y="600" />
+              <mxPoint x="2630" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nEC1PBz0_pPa9okscdMQ-75" value="GET" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nEC1PBz0_pPa9okscdMQ-73">
+          <mxGeometry x="0.0383" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
