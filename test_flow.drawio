@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-26T19:32:40.052Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="y2HWPmZS5OgiURrzYCj0" version="23.1.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-02-26T23:39:27.960Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="8aFplus-dt5ljHQVkhIW" version="23.1.5" type="github" pages="5">
   <diagram name="Página-1" id="jT7ZPlWgF6IqX4DdoQz3">
     <mxGraphModel dx="2465" dy="891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2152,8 +2152,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="lU88e92hnsXzIjwV-jJV" name="Página-4">
-    <mxGraphModel dx="1365" dy="1912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="lU88e92hnsXzIjwV-jJV" name="YMS">
+    <mxGraphModel dx="1130" dy="1783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2627,7 +2627,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nEC1PBz0_pPa9okscdMQ-7" value="Gate" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2361" y="750" width="120" height="30" as="geometry" />
+          <mxGeometry x="2380" y="720" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nEC1PBz0_pPa9okscdMQ-11" value="&amp;nbsp; &amp;nbsp; gate_id = models.ForeignKey(Gate, on_delete=models.CASCADE, related_name=&#39;gate_status&#39;)&lt;br&gt;&amp;nbsp; &amp;nbsp; gate_run = models.BooleanField(blank=False, null=False, default=False)&lt;br&gt;&amp;nbsp; &amp;nbsp; gate_descprition = models.CharField(max_length=100,blank=True, null=True)&lt;br&gt;&amp;nbsp; &lt;font color=&quot;#006600&quot;&gt;&amp;nbsp; status = models.JSONField(blank=True, null=True)&lt;br&gt;&amp;nbsp; &amp;nbsp; state_current = models.PositiveIntegerField(blank=True, null=True)&lt;/font&gt;&lt;br&gt;&amp;nbsp;&lt;font color=&quot;#0000ff&quot;&gt; &amp;nbsp; plate = models.CharField(max_length=7,blank=True, null=True, &amp;nbsp;default = &#39;-------&#39; )&lt;br&gt;&amp;nbsp; &amp;nbsp; weight = models.IntegerField(null=False,blank = False, default = 0 )&lt;br&gt;&amp;nbsp; &amp;nbsp; direction = models.IntegerField(null=False,blank = False, default = 0 )&lt;br&gt;&amp;nbsp; &amp;nbsp; ocr_manual_ajust = models.BooleanField(blank=False, null=False, default=False)&lt;br&gt;&amp;nbsp; &amp;nbsp; ocr_manual_in = models.BooleanField(blank=False, null=False, default=False)&lt;br&gt;&amp;nbsp; &amp;nbsp; ocr_manual_out = models.BooleanField(blank=False, null=False, default=False)&lt;br&gt;&amp;nbsp; &amp;nbsp; reset = models.BooleanField(blank=False, null=False, default=False)&lt;br&gt;&amp;nbsp; &amp;nbsp; reweight = models.BooleanField(blank=False, null=False, default=False)&lt;br&gt;&amp;nbsp; &amp;nbsp; confirm = models.BooleanField(blank=False, null=False, default=False)&lt;br&gt;&amp;nbsp; &amp;nbsp; refuse = models.BooleanField(blank=False, null=False, default=False)&lt;br&gt;&amp;nbsp; &amp;nbsp; open_barrier_a = models.BooleanField(blank=False, null=False, default=False)&lt;br&gt;&amp;nbsp; &amp;nbsp; open_barrier_b = models.BooleanField(blank=False, null=False, default=False)&lt;br&gt;&amp;nbsp; &amp;nbsp; close_barrier_a = models.BooleanField(blank=False, null=False, default=False)&lt;br&gt;&amp;nbsp; &amp;nbsp; close_barrier_b = models.BooleanField(blank=False, null=False, default=False)&lt;br&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 7px; background-color: rgb(255, 255, 255); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#0000ff&quot;&gt;&amp;nbsp; history = HistoricalRecords(verbose_name=&quot;┕━━ Logs&quot;,verbose_name_plural=&quot;┕━━ Logs&quot;)&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;font color=&quot;#0000ff&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacing=0;spacingTop=-3;fontSize=8;align=left;" parent="1" vertex="1">
           <mxGeometry x="2340" y="840" width="360" height="200" as="geometry" />
@@ -2687,7 +2687,8 @@
         <mxCell id="nEC1PBz0_pPa9okscdMQ-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="nEC1PBz0_pPa9okscdMQ-47" target="nEC1PBz0_pPa9okscdMQ-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2270" y="765" />
+              <mxPoint x="2270" y="760" />
+              <mxPoint x="2380" y="760" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -2875,7 +2876,7 @@
           <mxGeometry x="3080" y="820" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fQIX5c3wcvyMI-lkC_Ft-37" value="DRF" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="2400" y="720" width="450" height="20" as="geometry" />
+          <mxGeometry x="2440" y="455" width="450" height="20" as="geometry" />
         </mxCell>
         <mxCell id="fQIX5c3wcvyMI-lkC_Ft-38" value="/atualiza_evento" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="3160" y="790" width="110" height="30" as="geometry" />
@@ -3051,6 +3052,65 @@
         </mxCell>
         <mxCell id="fQIX5c3wcvyMI-lkC_Ft-88" value="Operação por tipo de Gate" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="4070" y="520" width="170" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="lUHa4VldMUkxltlm2f2h" name="PAU">
+    <mxGraphModel dx="1130" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mzyJQaLSKJln4vA666-R-47" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="40" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="mzyJQaLSKJln4vA666-R-46" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="40" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="mzyJQaLSKJln4vA666-R-45" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="20" y="40" width="400" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="mzyJQaLSKJln4vA666-R-1" value="ADMIN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="140" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mzyJQaLSKJln4vA666-R-2" value="ADMIN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="140" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mzyJQaLSKJln4vA666-R-3" value="ADMIN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="140" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mzyJQaLSKJln4vA666-R-4" value="ADMIN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="140" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mzyJQaLSKJln4vA666-R-5" value="Public" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="160" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mzyJQaLSKJln4vA666-R-12" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database_partition_2.svg;" vertex="1" parent="1">
+          <mxGeometry x="40" y="99" width="50" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="mzyJQaLSKJln4vA666-R-13" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database_partition_2.svg;" vertex="1" parent="1">
+          <mxGeometry x="40" y="81" width="50" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="mzyJQaLSKJln4vA666-R-14" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database_partition_2.svg;" vertex="1" parent="1">
+          <mxGeometry x="40" y="67" width="50" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="mzyJQaLSKJln4vA666-R-15" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database_partition_2.svg;" vertex="1" parent="1">
+          <mxGeometry x="40" y="50" width="50" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="mzyJQaLSKJln4vA666-R-16" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database_partition_2.svg;" vertex="1" parent="1">
+          <mxGeometry x="120" y="99" width="50" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="mzyJQaLSKJln4vA666-R-21" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database_partition_2.svg;" vertex="1" parent="1">
+          <mxGeometry x="200" y="81" width="50" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="mzyJQaLSKJln4vA666-R-26" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database_partition_2.svg;" vertex="1" parent="1">
+          <mxGeometry x="275" y="67" width="50" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="mzyJQaLSKJln4vA666-R-31" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database_partition_2.svg;" vertex="1" parent="1">
+          <mxGeometry x="355" y="50" width="50" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="mzyJQaLSKJln4vA666-R-49" value="&lt;h1&gt;Ideia..&lt;/h1&gt;&lt;p&gt;Cada inquilo com seu Schema,&lt;/p&gt;&lt;p&gt;Panel Admin Privado&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;- Consegue criar request (GET, POST , etc..) dinâmicas&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;- Response de cada request formato Json&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;- &lt;b&gt;Controlar quantidade de request (log) para faturamento&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;por transação&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;- Request Dinâmica pode ser programada de tempo em tempo pelo inquilino&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;- Onde armazenar esses JSON?&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;- Existir uma Interface PUBLIC, de maneira padronizada&lt;br&gt;&lt;/p&gt;&lt;p&gt;para &quot;renderizar os Json&quot; talvez em formato de widgets&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;- Nessa interface Public seria possível interagir com agendamento e enviar uma atualização para o sistema do inquilino,&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;- Essa atualização pode &quot;flegar&quot; o agendamento até finalizar o update (retorno da request) travando integração simultanea?!? Talvez seja possível pois ambos estariam tetando operar o mesmo registro pela interface Public&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;- Confirmado agendamento &quot;sumir do portal?&quot;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;- Como mostrar na interface Public todos?! &lt;b&gt;Regras de prioridade ou topo podem ser monetizadas&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="40" width="380" height="750" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
