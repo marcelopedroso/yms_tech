@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-26T19:29:56.695Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="qisBs-l6qZFWw8yo6tOH" version="23.1.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-02-26T19:31:56.182Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="L1oI5ghD-7vOaO6H07fq" version="23.1.5" type="github" pages="4">
   <diagram name="Página-1" id="jT7ZPlWgF6IqX4DdoQz3">
     <mxGraphModel dx="2465" dy="891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3035,7 +3035,7 @@
           <mxGeometry x="4135" y="795" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fQIX5c3wcvyMI-lkC_Ft-78" value="gate state machine&lt;br&gt;[Reinicia operação" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4130" y="990" width="220" height="90" as="geometry" />
+          <mxGeometry x="4090" y="1010" width="220" height="90" as="geometry" />
         </mxCell>
         <mxCell id="fQIX5c3wcvyMI-lkC_Ft-84" value="&lt;font color=&quot;#0000ff&quot;&gt;Gate nao sabe qual GMO&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="3320" y="758" width="160" height="30" as="geometry" />
@@ -3048,6 +3048,9 @@
         </mxCell>
         <mxCell id="fQIX5c3wcvyMI-lkC_Ft-87" value="&lt;font color=&quot;#0000ff&quot;&gt;Tratar a resposta.&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="4050" y="760" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fQIX5c3wcvyMI-lkC_Ft-88" value="Operação por tipo de Gate" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="4070" y="520" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
