@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-27T14:53:10.406Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="9TL1DgrprHAOijxe7DD9" version="23.1.7" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-02-27T14:55:42.790Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="uh_x1YS4qdmizo14zYsn" version="23.1.7" type="github" pages="4">
   <diagram id="bXazobEEkjqedL4T1Qyy" name="futuro_ideal">
     <mxGraphModel dx="1703" dy="1694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -776,7 +776,7 @@
           <mxGeometry x="-140" y="-50" width="1170" height="100" as="geometry" />
         </mxCell>
         <mxCell id="pKY3Bw0ov2IYWMfEDOwZ-13" value="" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;opacity=50;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="pKY3Bw0ov2IYWMfEDOwZ-1">
-          <mxGeometry x="-130" y="390" width="1160" height="90" as="geometry" />
+          <mxGeometry x="-130" y="390" width="1160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="pKY3Bw0ov2IYWMfEDOwZ-14" value="" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;opacity=50;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="pKY3Bw0ov2IYWMfEDOwZ-1">
           <mxGeometry x="-130" y="190" width="1160" height="120" as="geometry" />
@@ -827,10 +827,10 @@
           <mxGeometry x="785" y="200" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pKY3Bw0ov2IYWMfEDOwZ-32" value="[BID/GP] Bielski" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=left;" vertex="1" parent="pKY3Bw0ov2IYWMfEDOwZ-1">
-          <mxGeometry x="530" y="402.5" width="100" height="20" as="geometry" />
+          <mxGeometry x="530" y="398.5" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="pKY3Bw0ov2IYWMfEDOwZ-33" value="[BID/GP] Everton" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=left;" vertex="1" parent="pKY3Bw0ov2IYWMfEDOwZ-1">
-          <mxGeometry x="530" y="429.38" width="90" height="20" as="geometry" />
+          <mxGeometry x="530" y="420.38" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="pKY3Bw0ov2IYWMfEDOwZ-34" value="[TSM] Schram" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=left;" vertex="1" parent="pKY3Bw0ov2IYWMfEDOwZ-1">
           <mxGeometry x="530" y="260" width="90" height="20" as="geometry" />
@@ -1012,8 +1012,8 @@
         <mxCell id="pKY3Bw0ov2IYWMfEDOwZ-97" value="QA" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.user;fillColor=#008a00;fontColor=#030303;strokeColor=#005700;strokeWidth=2;" vertex="1" parent="pKY3Bw0ov2IYWMfEDOwZ-1">
           <mxGeometry x="800" y="325" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pKY3Bw0ov2IYWMfEDOwZ-98" value="[RUMO] Cesar" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=left;fillColor=#FFFFFF;strokeColor=#b85450;fillStyle=auto;gradientColor=none;" vertex="1" parent="pKY3Bw0ov2IYWMfEDOwZ-1">
-          <mxGeometry x="530" y="455" width="90" height="20" as="geometry" />
+        <mxCell id="pKY3Bw0ov2IYWMfEDOwZ-98" value="[NCargas] Cesar" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=left;fillColor=#FFFFFF;strokeColor=#b85450;fillStyle=auto;gradientColor=none;" vertex="1" parent="pKY3Bw0ov2IYWMfEDOwZ-1">
+          <mxGeometry x="530" y="461" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="pKY3Bw0ov2IYWMfEDOwZ-99" value="QA" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.user;fillColor=#0050ef;fontColor=#000000;strokeColor=#001DBC;strokeWidth=2;" vertex="1" parent="pKY3Bw0ov2IYWMfEDOwZ-1">
           <mxGeometry x="800" y="646" width="40" height="40" as="geometry" />
@@ -1103,7 +1103,7 @@
           <mxGeometry x="905.23" y="66.85999999999996" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="mpWTI1tyaJtWAgeF8GYV-21" value="[TOS] Bach" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=left;" vertex="1" parent="pKY3Bw0ov2IYWMfEDOwZ-1">
-          <mxGeometry x="907.62" y="0.9999999999998863" width="90" height="20" as="geometry" />
+          <mxGeometry x="907.62" y="-21.000000000000114" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="mpWTI1tyaJtWAgeF8GYV-22" value="[GTM] Luciano" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=left;" vertex="1" parent="pKY3Bw0ov2IYWMfEDOwZ-1">
           <mxGeometry x="906.62" y="89.71999999999994" width="90" height="20" as="geometry" />
@@ -1113,6 +1113,15 @@
         </mxCell>
         <mxCell id="pKY3Bw0ov2IYWMfEDOwZ-38" value="SAAGRA" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="pKY3Bw0ov2IYWMfEDOwZ-1">
           <mxGeometry x="-180" y="99.72000000000011" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mpWTI1tyaJtWAgeF8GYV-32" value="[TOS]&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=left;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="pKY3Bw0ov2IYWMfEDOwZ-1">
+          <mxGeometry x="908" y="1.1499999999998938" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mpWTI1tyaJtWAgeF8GYV-34" value="[BID/GP]&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=left;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="pKY3Bw0ov2IYWMfEDOwZ-1">
+          <mxGeometry x="530" y="438.38" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mpWTI1tyaJtWAgeF8GYV-35" value="Novo Cargas" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="pKY3Bw0ov2IYWMfEDOwZ-1">
+          <mxGeometry x="-170" y="463.5" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
