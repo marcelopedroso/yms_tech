@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-27T14:46:13.541Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="GFTTAM4PJ8Jsl-8mW8f5" version="23.1.7" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-02-27T14:48:54.784Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="RRV0BHTF2Winqd_tltPO" version="23.1.7" type="github" pages="4">
   <diagram id="bXazobEEkjqedL4T1Qyy" name="futuro_ideal">
     <mxGraphModel dx="1703" dy="1694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -738,7 +738,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Cópia do org" id="O2AuSPdRULd1ZkkhwACy">
-    <mxGraphModel dx="1956" dy="1919" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2144" dy="2044" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="pKY3Bw0ov2IYWMfEDOwZ-0" />
         <mxCell id="pKY3Bw0ov2IYWMfEDOwZ-1" parent="pKY3Bw0ov2IYWMfEDOwZ-0" />
@@ -788,7 +788,7 @@
           <mxGeometry x="454.5" y="-5.0000000000000195" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pKY3Bw0ov2IYWMfEDOwZ-17" value="&lt;font color=&quot;#000000&quot;&gt;Guilherme&lt;/font&gt;" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.administrator;" vertex="1" parent="pKY3Bw0ov2IYWMfEDOwZ-1">
-          <mxGeometry x="942.0600000000002" y="-100.28" width="44.76" height="40" as="geometry" />
+          <mxGeometry x="930.2400000000001" y="-100" width="44.76" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pKY3Bw0ov2IYWMfEDOwZ-18" value="Análise" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="pKY3Bw0ov2IYWMfEDOwZ-1">
           <mxGeometry x="379" y="-120" width="40" height="20" as="geometry" />
@@ -1070,7 +1070,7 @@
           <mxGeometry x="620" y="250" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="pKY3Bw0ov2IYWMfEDOwZ-114" value="Felipe" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.administrator;" vertex="1" parent="pKY3Bw0ov2IYWMfEDOwZ-1">
-          <mxGeometry x="917.3" y="-20.28" width="34.76" height="30" as="geometry" />
+          <mxGeometry x="930.24" width="34.76" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mpWTI1tyaJtWAgeF8GYV-0" value="Analista" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.user;fillColor=#008a00;strokeColor=#005700;fontColor=#171717;" vertex="1" parent="pKY3Bw0ov2IYWMfEDOwZ-1">
           <mxGeometry x="379" y="409.38" width="40" height="40" as="geometry" />
