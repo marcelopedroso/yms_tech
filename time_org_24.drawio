@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-05T14:30:12.598Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0" etag="_-QMjCU_A_NOHNiMJnk9" version="24.0.1" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-07-04T14:40:26.442Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="SPWgyQHkFw-LolgWMZE_" version="24.6.4" type="github" pages="7">
   <diagram id="bXazobEEkjqedL4T1Qyy" name="futuro_ideal">
     <mxGraphModel dx="2465" dy="2060" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1966,6 +1966,131 @@
         </mxCell>
         <mxCell id="i76ees0qQLKT2rZoZ67e-10" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="A-gGBCNdK75d_-wVfzHy-1">
           <mxGeometry x="10" y="520" width="50" height="200" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="jZZEExh6EF79q-n2Vw4p" name="Página-7">
+    <mxGraphModel dx="1130" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KXHRlZ2g2WeeHCzkMBJI-1" value="Marcelo" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.user;" vertex="1" parent="1">
+          <mxGeometry x="450" y="60" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KXHRlZ2g2WeeHCzkMBJI-2" value="Gabriel" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.user;" vertex="1" parent="1">
+          <mxGeometry x="160" y="160" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KXHRlZ2g2WeeHCzkMBJI-3" value="Leonardo" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.user;" vertex="1" parent="1">
+          <mxGeometry x="280" y="160" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KXHRlZ2g2WeeHCzkMBJI-4" value="Darossi" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.user;" vertex="1" parent="1">
+          <mxGeometry x="414" y="160" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KXHRlZ2g2WeeHCzkMBJI-5" value="Daniel" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.user;" vertex="1" parent="1">
+          <mxGeometry x="545" y="160" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ilnv7LqyxUQv3a8BRljX-1" value="[B3] Grutzmacher" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=left;" vertex="1" parent="1">
+          <mxGeometry x="386.03" y="281.23" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ilnv7LqyxUQv3a8BRljX-2" value="[B3] Moises" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=left;" vertex="1" parent="1">
+          <mxGeometry x="386.03" y="301.23" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ilnv7LqyxUQv3a8BRljX-4" value="[Rota] Gabriel" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=center;" vertex="1" parent="1">
+          <mxGeometry x="520" y="281.04" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ilnv7LqyxUQv3a8BRljX-5" value="[B3] Felipe Souza" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=left;" vertex="1" parent="1">
+          <mxGeometry x="386.03" y="321.23" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J50pbMHd2VnCQX_pkyi--1" value="[TSM] Schram" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=left;" vertex="1" parent="1">
+          <mxGeometry x="133.97000000000006" y="343.04" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J50pbMHd2VnCQX_pkyi--2" value="[TSM] Edgar" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=left;" vertex="1" parent="1">
+          <mxGeometry x="133.97" y="406.04" width="92.06" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J50pbMHd2VnCQX_pkyi--4" value="[Mosaic] Dalssoto" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=left;" vertex="1" parent="1">
+          <mxGeometry x="133.97" y="261.04" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J50pbMHd2VnCQX_pkyi--5" value="[TSM] Mateus A." style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=left;" vertex="1" parent="1">
+          <mxGeometry x="133.97000000000006" y="321.04" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J50pbMHd2VnCQX_pkyi--6" value="[TSM] André B." style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=left;" vertex="1" parent="1">
+          <mxGeometry x="133.97" y="281.04" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J50pbMHd2VnCQX_pkyi--7" value="[TSM] Nicolas." style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=left;" vertex="1" parent="1">
+          <mxGeometry x="133.97" y="301.04" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J50pbMHd2VnCQX_pkyi--8" value="[TSM] Henrique" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=left;" vertex="1" parent="1">
+          <mxGeometry x="133.97" y="363.04" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J50pbMHd2VnCQX_pkyi--10" value="[TSM] Anderson" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=left;" vertex="1" parent="1">
+          <mxGeometry x="133.97" y="386.04" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J50pbMHd2VnCQX_pkyi--11" value="[QA] Andressa" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=left;" vertex="1" parent="1">
+          <mxGeometry x="133.97" y="446.04" width="92.06" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J50pbMHd2VnCQX_pkyi--12" value="[QA] Lucia" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=left;" vertex="1" parent="1">
+          <mxGeometry x="133.97" y="426.04" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vQsqlxnoJSINobOPi5hY-1" value="[TOS] Samuel" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=left;" vertex="1" parent="1">
+          <mxGeometry x="255" y="282.4199999999999" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vQsqlxnoJSINobOPi5hY-2" value="[TOS] Eduardo" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=left;" vertex="1" parent="1">
+          <mxGeometry x="255" y="259.18999999999994" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vQsqlxnoJSINobOPi5hY-3" value="[GTM] Luiz" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=left;" vertex="1" parent="1">
+          <mxGeometry x="255.00000000000006" y="402.4199999999999" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vQsqlxnoJSINobOPi5hY-4" value="[SAAGRA] Felipe" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=left;" vertex="1" parent="1">
+          <mxGeometry x="255" y="342.41999999999996" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vQsqlxnoJSINobOPi5hY-5" value="[GTM] Luciano" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=left;" vertex="1" parent="1">
+          <mxGeometry x="255.00000000000006" y="382.41999999999996" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vQsqlxnoJSINobOPi5hY-6" value="[SAAGRA] Ailem" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=left;" vertex="1" parent="1">
+          <mxGeometry x="255" y="360.42" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vQsqlxnoJSINobOPi5hY-7" value="[TOS] Herminio" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=left;" vertex="1" parent="1">
+          <mxGeometry x="254.9999999999999" y="302.4199999999999" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vQsqlxnoJSINobOPi5hY-8" value="[TOS] Bach" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=left;" vertex="1" parent="1">
+          <mxGeometry x="255" y="322.4199999999999" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vQsqlxnoJSINobOPi5hY-9" value="[Onno] Francisco" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=left;" vertex="1" parent="1">
+          <mxGeometry x="255.00000000000006" y="445.4199999999999" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vQsqlxnoJSINobOPi5hY-10" value="[Onno] Renan" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=left;" vertex="1" parent="1">
+          <mxGeometry x="255.00000000000006" y="425.41999999999996" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vQsqlxnoJSINobOPi5hY-11" value="Aldir" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=left;" vertex="1" parent="1">
+          <mxGeometry x="255.00000000000006" y="241.0399999999999" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vQsqlxnoJSINobOPi5hY-12" value="MAthias" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=left;" vertex="1" parent="1">
+          <mxGeometry x="136.03000000000006" y="241.0399999999999" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_936Y6zbveKnmRG1zbX7-1" value="[BID/GP] Bielski" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=left;" vertex="1" parent="1">
+          <mxGeometry x="386.03" y="261.23" width="93.97" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_936Y6zbveKnmRG1zbX7-2" value="[BID/GP] Everton" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=left;" vertex="1" parent="1">
+          <mxGeometry x="388.02" y="240" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_936Y6zbveKnmRG1zbX7-3" value="[Rumo] Igor" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=left;" vertex="1" parent="1">
+          <mxGeometry x="520" y="261.0399999999999" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_936Y6zbveKnmRG1zbX7-4" value="[Rumo] MAtheus" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=left;" vertex="1" parent="1">
+          <mxGeometry x="520" y="241.04" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_936Y6zbveKnmRG1zbX7-5" value="[YMS] Guilherme" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=center;" vertex="1" parent="1">
+          <mxGeometry x="520" y="301.04" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_936Y6zbveKnmRG1zbX7-7" value="Eberson" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.user;" vertex="1" parent="1">
+          <mxGeometry x="670" y="250" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_936Y6zbveKnmRG1zbX7-8" value="André" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.user;" vertex="1" parent="1">
+          <mxGeometry x="730" y="250" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_936Y6zbveKnmRG1zbX7-9" value="Luizão" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.user;" vertex="1" parent="1">
+          <mxGeometry x="700" y="180" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
