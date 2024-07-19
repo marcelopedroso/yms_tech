@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-04T14:57:05.317Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="AegcfLsPcaftKuMu6TfL" version="24.6.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-07-19T00:12:48.262Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="Xw_zmsI_GffkY-XqwS23" version="24.7.1" type="github" pages="7">
   <diagram id="bXazobEEkjqedL4T1Qyy" name="futuro_ideal">
     <mxGraphModel dx="2465" dy="2060" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -388,7 +388,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="org" id="vrlO05JOyxqTe0X9JqZM">
-    <mxGraphModel dx="2702" dy="2325" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2253" dy="1954" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="N-x4Uq1PfQ7TN0RLeoOC-0" />
         <mxCell id="N-x4Uq1PfQ7TN0RLeoOC-1" parent="N-x4Uq1PfQ7TN0RLeoOC-0" />
@@ -624,7 +624,7 @@
           <mxGeometry x="-130" y="504" width="1020" height="95" as="geometry" />
         </mxCell>
         <mxCell id="N-x4Uq1PfQ7TN0RLeoOC-80" value="[B3] Rafaela" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=left;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="N-x4Uq1PfQ7TN0RLeoOC-1" vertex="1">
-          <mxGeometry x="530" y="590" width="90" height="20" as="geometry" />
+          <mxGeometry x="530" y="585" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="N-x4Uq1PfQ7TN0RLeoOC-81" value="[B3] Moises" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=left;" parent="N-x4Uq1PfQ7TN0RLeoOC-1" vertex="1">
           <mxGeometry x="530" y="530" width="90" height="20" as="geometry" />
@@ -733,9 +733,6 @@
         </mxCell>
         <mxCell id="0C6P-nqBuNZMfgxQYiOg-5" value="Luiz" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.administrator;" parent="N-x4Uq1PfQ7TN0RLeoOC-1" vertex="1">
           <mxGeometry x="677.3" y="44.72" width="34.76" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="NcWhgUqqrxwuFxzXbT57-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.333;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="N-x4Uq1PfQ7TN0RLeoOC-1" source="N-x4Uq1PfQ7TN0RLeoOC-80" target="N-x4Uq1PfQ7TN0RLeoOC-80">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
