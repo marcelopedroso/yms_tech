@@ -2412,6 +2412,9 @@
         <mxCell id="awTd5sB8jvIhwOGg9DwB-62" value="[AppGate]&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=left;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="520" y="779.9999999999999" width="90" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="awTd5sB8jvIhwOGg9DwB-63" value="[AppGate]&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=left;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="520" y="799.9999999999999" width="90" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
