@@ -1980,7 +1980,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="jZZEExh6EF79q-n2Vw4p" name="Página-7">
-    <mxGraphModel dx="1149" dy="1709" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1779" dy="1616" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2423,6 +2423,21 @@
         </mxCell>
         <mxCell id="awTd5sB8jvIhwOGg9DwB-66" value="[YMS]&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=left;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="760" y="749.3099999999997" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="awTd5sB8jvIhwOGg9DwB-67" value="SUSTENTAÇÃO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=top;strokeWidth=3;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="830" width="158.91" height="208.62" as="geometry" />
+        </mxCell>
+        <mxCell id="awTd5sB8jvIhwOGg9DwB-70" value="[YMS]&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=left;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="869.9999999999998" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="awTd5sB8jvIhwOGg9DwB-71" value="[YMS]&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=left;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="909.9999999999998" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="awTd5sB8jvIhwOGg9DwB-72" value="[YMS]&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=left;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="949.9999999999998" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="awTd5sB8jvIhwOGg9DwB-73" value="[YMS]&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=left;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="989.9999999999998" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
