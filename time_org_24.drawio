@@ -1984,7 +1984,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="awTd5sB8jvIhwOGg9DwB-28" value="DEDICADOS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=top;strokeWidth=3;strokeColor=#0000FF;" vertex="1" parent="1">
+        <mxCell id="awTd5sB8jvIhwOGg9DwB-28" value="DEDICADOS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=top;strokeWidth=3;strokeColor=#0000FF;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="242.37" y="880" width="437.63" height="160" as="geometry" />
         </mxCell>
         <mxCell id="awTd5sB8jvIhwOGg9DwB-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="awTd5sB8jvIhwOGg9DwB-24" target="awTd5sB8jvIhwOGg9DwB-42">
@@ -1995,10 +1995,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="awTd5sB8jvIhwOGg9DwB-24" value="LEGADOS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=top;strokeWidth=3;strokeColor=#ff0000;" vertex="1" parent="1">
+        <mxCell id="awTd5sB8jvIhwOGg9DwB-24" value="LEGADOS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=top;strokeWidth=3;strokeColor=#ff0000;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="41.09" y="641.38" width="158.91" height="398.62" as="geometry" />
         </mxCell>
-        <mxCell id="awTd5sB8jvIhwOGg9DwB-26" value="SERVIÇOS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=top;strokeWidth=3;strokeColor=#005700;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="awTd5sB8jvIhwOGg9DwB-26" value="SERVIÇOS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=top;strokeWidth=3;strokeColor=#005700;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="243.09" y="641.38" width="436.91" height="198.62" as="geometry" />
         </mxCell>
         <mxCell id="KXHRlZ2g2WeeHCzkMBJI-1" value="Marcelo (Head)" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.user;" parent="1" vertex="1">
@@ -2370,13 +2370,13 @@
         <mxCell id="awTd5sB8jvIhwOGg9DwB-41" value="[FTO] Ebersom" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=left;" vertex="1" parent="1">
           <mxGeometry x="520" y="919.9999999999999" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="awTd5sB8jvIhwOGg9DwB-42" value="New YMS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=top;strokeWidth=3;strokeColor=#CCCC00;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="awTd5sB8jvIhwOGg9DwB-42" value="New YMS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=top;strokeWidth=3;strokeColor=#CCCC00;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="720" y="641.38" width="160" height="158.62" as="geometry" />
         </mxCell>
         <mxCell id="awTd5sB8jvIhwOGg9DwB-48" value="[Estoque]&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=left;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="269.99999999999994" y="799.9999999999999" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="awTd5sB8jvIhwOGg9DwB-51" value="Novo New YMS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=top;strokeWidth=3;strokeColor=#CCCC00;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="awTd5sB8jvIhwOGg9DwB-51" value="Novo New YMS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=top;strokeWidth=3;strokeColor=#CCCC00;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="720" y="840" width="160" height="198.62" as="geometry" />
         </mxCell>
         <mxCell id="awTd5sB8jvIhwOGg9DwB-52" value="[YMS] André" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=left;" vertex="1" parent="1">
@@ -2424,7 +2424,7 @@
         <mxCell id="awTd5sB8jvIhwOGg9DwB-66" value="[YMS]&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=left;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="760" y="749.3099999999997" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="awTd5sB8jvIhwOGg9DwB-67" value="SUSTENTAÇÃO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=top;strokeWidth=3;strokeColor=#ff0000;" vertex="1" parent="1">
+        <mxCell id="awTd5sB8jvIhwOGg9DwB-67" value="SUSTENTAÇÃO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=top;strokeWidth=3;strokeColor=#ff0000;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-80" y="642" width="120.91" height="198" as="geometry" />
         </mxCell>
         <mxCell id="awTd5sB8jvIhwOGg9DwB-70" value="[YMS]&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=left;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
