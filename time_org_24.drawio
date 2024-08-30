@@ -1980,7 +1980,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="jZZEExh6EF79q-n2Vw4p" name="Página-7">
-    <mxGraphModel dx="1779" dy="1616" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1976" dy="1709" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2371,28 +2371,28 @@
           <mxGeometry x="520" y="919.9999999999999" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="awTd5sB8jvIhwOGg9DwB-42" value="New YMS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=top;strokeWidth=3;strokeColor=#CCCC00;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="720" y="641.38" width="160" height="398.62" as="geometry" />
+          <mxGeometry x="720" y="641.38" width="160" height="158.62" as="geometry" />
         </mxCell>
         <mxCell id="awTd5sB8jvIhwOGg9DwB-48" value="[Estoque]&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=left;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="269.99999999999994" y="799.9999999999999" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="awTd5sB8jvIhwOGg9DwB-51" value="Novo New YMS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=top;strokeWidth=3;strokeColor=#CCCC00;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="920" y="641.38" width="160" height="398.62" as="geometry" />
+          <mxGeometry x="720" y="840" width="160" height="198.62" as="geometry" />
         </mxCell>
         <mxCell id="awTd5sB8jvIhwOGg9DwB-52" value="[YMS] André" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=left;" vertex="1" parent="1">
-          <mxGeometry x="955" y="679.9999999999999" width="90" height="20" as="geometry" />
+          <mxGeometry x="755" y="878.6199999999999" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="awTd5sB8jvIhwOGg9DwB-53" value="[YMS]&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=left;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="955" y="710.6899999999998" width="90" height="20" as="geometry" />
+          <mxGeometry x="755" y="909.3099999999998" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="awTd5sB8jvIhwOGg9DwB-54" value="[YMS]&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=left;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="955" y="739.9999999999998" width="90" height="20" as="geometry" />
+          <mxGeometry x="755" y="938.6199999999998" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="awTd5sB8jvIhwOGg9DwB-55" value="[YMS]&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=left;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="955" y="769.9999999999998" width="90" height="20" as="geometry" />
+          <mxGeometry x="755" y="968.6199999999998" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="awTd5sB8jvIhwOGg9DwB-56" value="[YMS]&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=left;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="955" y="799.9999999999998" width="90" height="20" as="geometry" />
+          <mxGeometry x="755" y="998.6199999999998" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="awTd5sB8jvIhwOGg9DwB-58" value="[Gateway]&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=left;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="520" y="679.9999999999999" width="90" height="20" as="geometry" />
@@ -2425,19 +2425,19 @@
           <mxGeometry x="760" y="749.3099999999997" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="awTd5sB8jvIhwOGg9DwB-67" value="SUSTENTAÇÃO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=top;strokeWidth=3;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="-118" y="642" width="158.91" height="238" as="geometry" />
+          <mxGeometry x="-80" y="642" width="120.91" height="198" as="geometry" />
         </mxCell>
         <mxCell id="awTd5sB8jvIhwOGg9DwB-70" value="[YMS]&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=left;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="689.9999999999998" width="90" height="20" as="geometry" />
+          <mxGeometry x="-60" y="680" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="awTd5sB8jvIhwOGg9DwB-71" value="[YMS]&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=left;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="729.9999999999998" width="90" height="20" as="geometry" />
+          <mxGeometry x="-60" y="720" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="awTd5sB8jvIhwOGg9DwB-72" value="[YMS]&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=left;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="769.9999999999998" width="90" height="20" as="geometry" />
+          <mxGeometry x="-60" y="760" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="awTd5sB8jvIhwOGg9DwB-73" value="[YMS]&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=left;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="809.9999999999998" width="90" height="20" as="geometry" />
+          <mxGeometry x="-60" y="800" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
