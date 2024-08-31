@@ -1980,10 +1980,13 @@
     </mxGraphModel>
   </diagram>
   <diagram id="jZZEExh6EF79q-n2Vw4p" name="Página-7">
-    <mxGraphModel dx="1976" dy="1709" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2015" dy="1822" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="awTd5sB8jvIhwOGg9DwB-100" value="&lt;div&gt;B3&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="530" y="1120" width="80" height="280" as="geometry" />
+        </mxCell>
         <mxCell id="awTd5sB8jvIhwOGg9DwB-28" value="DEDICADOS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=top;strokeWidth=3;strokeColor=#0000FF;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="242.37" y="880" width="437.63" height="160" as="geometry" />
         </mxCell>
@@ -2438,6 +2441,30 @@
         </mxCell>
         <mxCell id="awTd5sB8jvIhwOGg9DwB-73" value="[YMS]&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;align=left;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-60" y="800" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="awTd5sB8jvIhwOGg9DwB-97" value="&lt;div&gt;New YMS&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#fff2cc;strokeColor=#d6b656;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="620" y="1120" width="80" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="awTd5sB8jvIhwOGg9DwB-98" value="Novo&amp;nbsp;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;New YMS&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#f8cecc;strokeColor=#b85450;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="710" y="1120" width="80" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="awTd5sB8jvIhwOGg9DwB-91" value="Gates" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1180" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="awTd5sB8jvIhwOGg9DwB-92" value="Estoque" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1200" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="awTd5sB8jvIhwOGg9DwB-93" value="Totem" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1220" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="awTd5sB8jvIhwOGg9DwB-94" value="Painel de&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Chamadas&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1240" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="awTd5sB8jvIhwOGg9DwB-95" value="App&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Gate&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1260" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="awTd5sB8jvIhwOGg9DwB-96" value="Api&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Gateway&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1160" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
